@@ -18,8 +18,8 @@ HTML では、\<a\> タグによって、リンク構造を記述する。基本
 ```
 
 参照：
-[w3school の link の解説](https://www.w3schools.com/html/html_links.asp)
-[w3school の href の解説](https://www.w3schools.com/tags/att_a_href.asp)
+- [w3school の link の解説](https://www.w3schools.com/html/html_links.asp)
+- [w3school の href の解説](https://www.w3schools.com/tags/att_a_href.asp)
 
 
 # 表示確認
