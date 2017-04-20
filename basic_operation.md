@@ -64,7 +64,8 @@ git コマンドは、実行しているフォルダのリポジトリ情報に�
 
 
 ## 練習問題
-- xampp の htdocs 内でシェル（MSWindows の人は git bash）を起動し、内容を表示しなさい。
+- xampp の htdocs 内でシェル（MSWindows の人は git bash）を起動しなさい。
+- ディレクトリの内容を表示しなさい。
 - htdocs 内で、git init コマンドを実行しなさい。
 - git clone https://github.com/idehara-lab-web-programming/syllabus.git によって、講義のシラバスをクローンしなさい。
 - htdocs 内のファイルを確認しなさい。
