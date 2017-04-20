@@ -66,10 +66,10 @@ git コマンドは、実行しているフォルダのリポジトリ情報に�
 ## 練習問題
 - xampp の htdocs 内でシェル（MSWindows の人は git bash）を起動しなさい。
 - ディレクトリの内容を表示しなさい。
-- htdocs 内で、git init コマンドを実行しなさい。
-- git clone https://github.com/idehara-lab-web-programming/syllabus.git によって、講義のシラバスをクローンしなさい。
+- htdocs 内で、`git init` コマンドを実行しなさい。
+- `git clone https://github.com/idehara-lab-web-programming/syllabus.git` によって、講義のシラバスをクローンしなさい。
 - htdocs 内のファイルを確認しなさい。
 - 作成されている（はずの）ディレクトリに移動しなさい。
 - そのディレクトリ内のファイルを確認しなさい。
-- そのディレクトリ内で、git remote -v コマンドによって、リモートリポジトリ情報を表示しなさい。
+- そのディレクトリ内で、`git remote -v` コマンドによって、リモートリポジトリ情報を表示しなさい。
 - htdocs フォルダに帰りなさい。
